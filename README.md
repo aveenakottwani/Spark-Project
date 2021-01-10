@@ -1,4 +1,4 @@
-# Spark - Project---CSE-532
+# Spark - Project COVID - 19 Data Analysis
 Spark - Project - Covid-19 data analysis
 
 
